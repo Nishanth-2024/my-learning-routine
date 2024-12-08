@@ -15,6 +15,7 @@
     - [RAII][ref-006-1]
     - [.Net Compliant Languages][ref-006-2]
 7. [007][ref-007] - EXE vs DLL
+8. [008][ref-008] - Delegate, Callback, Yield, Generator Functions ...
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -36,3 +37,4 @@
   [ref-006-2]: ./006-Languages/2-Languages.md
 
   [ref-007]: ./007-EXE-DLL.md
+  [ref-008]: ./008-Delegate-Yield.md
