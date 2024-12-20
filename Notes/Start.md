@@ -16,6 +16,12 @@
     - [.Net Compliant Languages][ref-006-2]
 7. [007][ref-007] - EXE vs DLL
 8. [008][ref-008] - Delegate, Callback, Yield, Generator Functions ...
+9. [009][ref-009] - LINQ
+10. 010 - Distributed Applications
+    - [Client Server Architecture][ref-010-1]
+    - [Threading in .Net][ref-010-2]
+    - [Tasks][ref-010-3]
+    - [ThreadPool][ref-010-4] - Threads, Tasks(TPL), best practices
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -38,3 +44,9 @@
 
   [ref-007]: ./007-EXE-DLL.md
   [ref-008]: ./008-Delegate-Yield.md
+  [ref-009]: ./009-LINQ.md
+
+  [ref-010-1]: ./010-Distributed-Application/1-Client-Server-Architecture.md
+  [ref-010-2]: ./010-Distributed-Application/2-Thread.md
+  [ref-010-3]: ./010-Distributed-Application/3-Tasks.md
+  [ref-010-4]: ./010-Distributed-Application/4-ThreadPool.md

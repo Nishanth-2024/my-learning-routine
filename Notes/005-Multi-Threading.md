@@ -115,21 +115,21 @@
 
 ## Blocking vs. Non-Blocking Threads
 
-TODO: Revisit for better understanding and better notes. This notes is not exactly correct for `Blocking vs. Non-Blocking Threads`
-
-Blocking Threads
+### Blocking Threads
 
 - **Definition:** A blocking thread waits for an operation to complete before continuing execution.
 - **Characteristics:**
   - **Synchronous:** Operations are performed sequentially, one after the other.
   - **Use Cases:** Suitable for tasks that must be completed before proceeding to the next step.
 
-Non-Blocking Threads
+### Non-Blocking Threads
 
 - **Definition:** A non-blocking thread does not wait for an operation to complete and can continue executing other tasks.
 - **Characteristics:**
   - **Asynchronous:** Operations can be performed concurrently, improving responsiveness.
   - **Use Cases:** Ideal for I/O-bound operations, such as network requests or file I/O, where waiting for completion would waste resources.
+
+Refer to **_Distributeed Applications_** or **_Client Server Architecture_** for more on **_Blocking vs. Non-Blocking Threads`_**
 
 [//]: # (Comments)
 

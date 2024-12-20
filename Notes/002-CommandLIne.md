@@ -1,4 +1,6 @@
-# Create and Run Application - Console
+# Create and Run Application
+
+## Creation
 
 1. Pick a Root Folder and open it in terminal
 2. Check for `dotnet` command line tool
@@ -126,16 +128,18 @@
       1. `dotnet new console -o App1 -n App1Name`
 6. To add a `.gitignore` file
    - `dotnet new gitignore`
-7. Run the application `dotnet run`
-   1. Disable `ImplicitUsings` from .csproj file for tougher but better learning experience
-      - Open the `.csproj` file.
-      - Add or modify `ImplicitUsings` tag:
+7. Disable `ImplicitUsings` from .csproj file for tougher but better learning experience
+   - Open the `.csproj` file.
+   - Add or modify `ImplicitUsings` tag:
 
-         ```xml
-         <ImplicitUsings>disable</ImplicitUsings>
-         ```
+      ```xml
+      <ImplicitUsings>disable</ImplicitUsings>
+      ```
 
+## Run
 
+- `dotnet run`
+- `dotnet run --project 'path/to/<project-name>.csproj'`
 
 ### What to Safely Ignore in .gitignore
 

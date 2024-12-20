@@ -18,4 +18,5 @@
   - EXE vs DLL
 
 - 2024 12 08 - Day 2
-  - 
+  - Delegate -> Callback
+  - Yield & Generator Functions
