@@ -18,4 +18,3 @@ This is a personal project for my own use. It's a space for me to document my jo
 ## Confession
 
 - I have started similar projects n number of times and avandoned due to `Procrastination`. I wish this would not end up in the same dumpster
-

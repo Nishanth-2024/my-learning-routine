@@ -20,3 +20,5 @@
 - 2024 12 08 - Day 2
   - Delegate -> Callback
   - Yield & Generator Functions
+
+- 2024 12 22 - Consolidate Entire Dotnet Core Branch into a folder
