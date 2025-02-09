@@ -1,1 +1,33 @@
+# Ignore the entire .obsidian folder
+.obsidian/**/*
+
+# Include specific configuration files
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+
+# Ignore the entire .obsidian folder
+.obsidian/snippets
+.obsidian/plugins
+.obsidian/themes
+
+# Include snippets and plugin settings
+!.obsidian/snippets/my-css-overrides.css
+!.obsidian/snippets/my-custom-callouts.css
+!.obsidian/plugins/callout-manager/data.json
+!.obsidian/themes/Primary/**/*
+
+# Ignore workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore OS-specific files
 .DS_Store
+Thumbs.db
+
+# Ignore trash folder
+.trash/

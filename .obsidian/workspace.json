@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cb636857290cadb",
+        "id": "776d154512d4d0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "00d32656ad497015",
+            "id": "62badd5b0e0f9c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,6 +150,20 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "96f93385efbf4966",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -160,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00d32656ad497015",
+  "active": "62badd5b0e0f9c05",
   "lastOpenFiles": [
     "Welcome.md",
     "README.md"

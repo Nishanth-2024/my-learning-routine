@@ -1,0 +1,27 @@
+/* no-icon */
+
+.callout[data-callout-metadata="no-icon"]>.callout-icon {
+  display: none !important;
+}
+
+.callout[data-callout-metadata="no-icon"]>.callout-title:empty {
+  display: none !important;
+}
+
+.callout[data-callout-metadata="no-icon"] {
+  padding-top: 0 !important;
+  border-top: none !important;
+}
+
+/* content */
+
+.callout[data-callout="content"]>.callout-title,
+.callout[data-callout="content"]>.callout-icon {
+  display: none !important;
+}
+
+.callout[data-callout="content"] {
+  padding-top: 0 !important;
+  margin-top: 2rem !important;
+  border-top: none !important;
+}

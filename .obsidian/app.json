@@ -1,1 +1,12 @@
-{}
+{
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 Rough Notes",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "./LICENSE"
+  ],
+  "readableLineLength": true,
+  "showLineNumber": false
+}

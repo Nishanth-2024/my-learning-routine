@@ -1,0 +1,9 @@
+body {
+  --file-line-width: 60em;
+}
+
+.mermaid {
+  text-align: center;
+  /* padding-left: 100px;
+  padding-right: 100px; */
+}

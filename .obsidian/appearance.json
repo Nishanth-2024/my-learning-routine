@@ -1,1 +1,15 @@
-{}
+{
+  "enabledCssSnippets": [
+    "my-custom-callouts",
+    "my-css-overrides"
+  ],
+  "textFontFamily": "Hack Nerd Font Mono,DejaVuSansM Nerd Font,Cousine Nerd Font Mono,FiraMono Nerd Font Mono,BitstromWera Nerd Font Mono,Cascadia Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,BitstromWera Nerd Font Mono,Cascadia Mono",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "translucency": false,
+  "cssTheme": "Primary",
+  "baseFontSize": 16
+}

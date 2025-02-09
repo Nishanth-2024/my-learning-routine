@@ -1,0 +1,175 @@
+{
+  "callouts": {
+    "custom": [
+      "my-definition-callout",
+      "my-title-one-callout",
+      "my-title-two-callout",
+      "my-title-callout",
+      "my-subtitle-callout",
+      "my-note-callout",
+      "my-code-callout",
+      "my-graph-callout",
+      "my-custom-callout-one",
+      "my-custom-callout-two",
+      "my-custom-callout-three",
+      "my-custom-callout-four",
+      "my-custom-callout-five",
+      "my-custom-callout-six",
+      "my-custom-callout-seven",
+      "my-custom-callout-eight",
+      "my-custom-callout-nine",
+      "my-custom-callout-ten"
+    ],
+    "settings": {
+      "my-definition-callout": [
+        {
+          "changes": {
+            "color": "103, 58, 183",
+            "icon": "lucide-book-open"
+          }
+        }
+      ],
+      "my-title-one-callout": [
+        {
+          "changes": {
+            "color": "33, 150, 243",
+            "icon": "lucide-title"
+          }
+        }
+      ],
+      "my-title-two-callout": [
+        {
+          "changes": {
+            "color": "0, 188, 212",
+            "icon": "lucide-title"
+          }
+        }
+      ],
+      "my-title-callout": [
+        {
+          "changes": {
+            "color": "76, 175, 80",
+            "icon": "lucide-title"
+          }
+        }
+      ],
+      "my-subtitle-callout": [
+        {
+          "changes": {
+            "color": "255, 152, 0",
+            "icon": "lucide-title"
+          }
+        }
+      ],
+      "my-note-callout": [
+        {
+          "changes": {
+            "color": "255, 235, 59",
+            "icon": "lucide-edit"
+          }
+        }
+      ],
+      "my-code-callout": [
+        {
+          "changes": {
+            "color": "158, 158, 158",
+            "icon": "lucide-code"
+          }
+        }
+      ],
+      "my-graph-callout": [
+        {
+          "changes": {
+            "color": "244, 67, 54",
+            "icon": "lucide-bar-chart-3"
+          }
+        }
+      ],
+      "my-custom-callout-one": [
+        {
+          "changes": {
+            "color": "121, 85, 85",
+            "icon": "lucide-star"
+          }
+        }
+      ],
+      "my-custom-callout-two": [
+        {
+          "changes": {
+            "color": "255, 87, 34",
+            "icon": "lucide-heart"
+          }
+        }
+      ],
+      "my-custom-callout-three": [
+        {
+          "changes": {
+            "color": "205, 220, 57",
+            "icon": "lucide-lightbulb"
+          }
+        }
+      ],
+      "my-custom-callout-four": [
+        {
+          "changes": {
+            "color": "0, 150, 136",
+            "icon": "lucide-check-circle"
+          }
+        }
+      ],
+      "my-custom-callout-five": [
+        {
+          "changes": {
+            "color": "63, 81, 181",
+            "icon": "lucide-tag"
+          }
+        }
+      ],
+      "my-custom-callout-six": [
+        {
+          "changes": {
+            "color": "139, 195, 74",
+            "icon": "lucide-alert-circle"
+          }
+        }
+      ],
+      "my-custom-callout-seven": [
+        {
+          "changes": {
+            "color": "255, 193, 7",
+            "icon": "lucide-info"
+          }
+        }
+      ],
+      "my-custom-callout-eight": [
+        {
+          "changes": {
+            "color": "96, 125, 139",
+            "icon": "lucide-calendar"
+          }
+        }
+      ],
+      "my-custom-callout-nine": [
+        {
+          "changes": {
+            "color": "156, 39, 176",
+            "icon": "lucide-map-pin"
+          }
+        }
+      ],
+      "my-custom-callout-ten": [
+        {
+          "changes": {
+            "color": "0, 0, 0",
+            "icon": "lucide-file"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
