@@ -2,5 +2,7 @@
   "callout-manager",
   "obsidian-completr",
   "obsidian-mind-map",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "oz-image-plugin",
+  "obsidian-latex-suite"
 ]
