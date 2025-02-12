@@ -1,12 +1,3 @@
-# Recursion and Backtracking
-
-> [!my-custom-callout-one] Table of Contents:
-> 
-> - Recursion
-> - BackTracking
-
----
-
 > [!my-definition-callout] Recursion
 > 
 > Function that calls itself is called *recursive*.
@@ -67,8 +58,6 @@ function factorial(n) {
 > | **Applicability** | Natural recursive structures (e.g., trees).                                         | Repetitive tasks.                                                                |
 > | **Debugging**     | *Can be challenging*.                                                               | Easier to debug.                                                                 |
 > 
-
----
 
 > [!my-definition-callout] Backtracking
 > 

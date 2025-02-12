@@ -5,8 +5,9 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
-    "./LICENSE"
+    "LICENSE"
   ],
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "attachmentFolderPath": "9 Attachments"
 }
