@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using System.Net.Http;
+using Implementations.Interfaces;
 
-namespace LLs
+namespace Implementations
 {
     public class SinglyLinkedListNode<T>
         where T : IEquatable<T>

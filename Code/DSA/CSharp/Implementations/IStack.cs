@@ -1,6 +1,6 @@
 using System;
 
-namespace Stk
+namespace Implementations.Interfaces
 {
     public interface IStack<T>
     {

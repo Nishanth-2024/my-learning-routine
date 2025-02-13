@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Implementations.Interfaces;
+using Implementations;
+using System;
 using System.Collections.Generic;
-using LLs;
-using Xunit;
 
-namespace LLs.Tests
-{
+namespace Tests {
     public class LinkedListTests
     {
         // Generic test method to run tests on both SinglyLinkedList and DoublyLinkedList

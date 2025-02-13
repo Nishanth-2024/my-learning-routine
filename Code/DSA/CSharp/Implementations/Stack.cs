@@ -1,6 +1,7 @@
 using System;
+using Implementations.Interfaces;
 
-namespace Stk
+namespace Implementations
 {
     public class ArrayBasedStack<T> : IStack<T>
     {

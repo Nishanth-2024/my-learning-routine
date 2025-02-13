@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace LLs
+namespace Implementations.Interfaces
 {
     public interface ILinkedList<T>
     {

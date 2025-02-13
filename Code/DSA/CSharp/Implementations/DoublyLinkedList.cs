@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
+using Implementations.Interfaces;
 
-namespace LLs
+namespace Implementations
 {
     public class DoublyLinkedListNode<T>
         where T : IEquatable<T>

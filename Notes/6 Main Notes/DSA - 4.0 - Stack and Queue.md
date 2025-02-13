@@ -16,3 +16,24 @@
 > - *int Size()*: Returns the number of elements stored in the stack.
 > - *bool IsEmptyStack()*: Indicates whether any elements are stored in the stack or not.
 > - *bool IsFullStack()*: Indicates whether the stack is full or not.
+
+> [!my-definition-callout] Queuetack
+>
+> A stack is a *linear data structure* or *abstract data type* that stores a collection of elements in a specific order, and insertion and deletion are done at different ends, adhering to the First-In, First-Out (*FIFO*) principle.
+>
+> It's a way of organizing data where the first element added is the first one retrieved.
+
+> [!NOTE] Queue as ADT
+>
+> The following operations make a Queue an ADT.
+>
+> Main Queue operations
+>
+> - *EnQueue:* Inserts data onto queue.
+> - *T DeQueue()*: Removes and returns the first inserted element out of the queue;
+> 
+> Auxiliary queue operations
+> 
+> - *T Front():* Returns the element at the front without removing it
+> - *int Size()*: Returns the number of elements stored in the queue.
+> - *bool IsEmptyQueue()*: Indicates whether any elements are stored in the queue or not.
