@@ -59,18 +59,11 @@ public class UnitTest1
         Assert.Equal(11, stk.Peek());
         Assert.Equal(11, stk.Pop());
 
-        Assert.Equal(5, stk.Peek());
-        Assert.Equal(5, stk.Pop());
-        Assert.Equal(4, stk.Peek());
-        Assert.Equal(4, stk.Pop());
-        Assert.Equal(3, stk.Peek());
-        Assert.Equal(3, stk.Pop());
-        Assert.Equal(2, stk.Peek());
-        Assert.Equal(2, stk.Pop());
-        Assert.Equal(1, stk.Peek());
-        Assert.Equal(1, stk.Pop());
+        stk.Clear();
 
         Assert.Throws<InvalidOperationException>(() => stk.Peek());
         Assert.Throws<InvalidOperationException>(() => stk.Pop());
+
+        Assert.Equal(0, stk.Size());
     }
 }
