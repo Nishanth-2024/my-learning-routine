@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LLs\LLs.csproj" />
+    <ProjectReference Include="..\Stk\Stk.csproj" />
   </ItemGroup>
 
 </Project>
