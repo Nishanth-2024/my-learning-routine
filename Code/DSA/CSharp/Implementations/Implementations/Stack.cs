@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using Implementations.Interfaces;
 
 namespace Implementations
@@ -102,6 +103,7 @@ namespace Implementations
             if (_top < 0) return Array.Empty<T>();
             T[] newArray = new T[_top + 1];
             Array.Copy(_store, 0, newArray, 0, _top + 1);
+            Array.Reverse(newArray);
             return newArray;
         }
     }
