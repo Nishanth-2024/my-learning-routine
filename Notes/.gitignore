@@ -15,6 +15,9 @@
 .obsidian/plugins
 .obsidian/themes
 
+# ignore completr scanned_words but keep the plugin itself
+.obsidian/plugins/obsidian-completr/scanned_words.txt
+
 # Include snippets and plugin settings
 !.obsidian/snippets/my-css-overrides.css
 !.obsidian/snippets/my-custom-callouts.css

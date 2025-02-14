@@ -81,7 +81,7 @@ class Null nullNode
 > 
 > Status: #baby
 > 
-> Keywords: #DataStructures #Recursion #BackTracking
+> Keywords: #DataStructures #LinkedLists
 > 
 > Tags: [[4 Indexes/DSA - Narasimha Karumanchi|DSA - Narasimha Karumanchi]]
 

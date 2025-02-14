@@ -157,7 +157,7 @@ flowchart TD
 > 
 > Status: #baby
 > 
-> Keywords: #DataStructures #Recursion #BackTracking
+> Keywords: #DataStructures #Arrays #DynamicArrays
 > 
 > Tags: [[4 Indexes/DSA - Narasimha Karumanchi|DSA - Narasimha Karumanchi]]
 

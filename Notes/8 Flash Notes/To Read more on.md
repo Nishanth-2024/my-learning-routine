@@ -2,3 +2,12 @@
 - Typosquatting
 - Postfix infix
 - button stealer
+- Trees
+	- Threaded Binary Tree Traversals (stack/queue – less traversals)
+	- Expression trees
+	- XOR
+	- Binary Search Trees
+	- Balanced BST
+	- AVL (Adelson-Velskii and Landis) Trees
+	- Other Trees
+- 
